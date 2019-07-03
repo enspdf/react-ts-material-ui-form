@@ -13,6 +13,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "shortid": "^2.2.14",
     "typescript": "3.5.2"
   },
   "scripts": {
@@ -37,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "@types/material-ui": "^0.21.6"
+    "@types/material-ui": "^0.21.6",
+    "@types/shortid": "^0.0.29"
   }
 }
